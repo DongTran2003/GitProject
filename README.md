@@ -28,13 +28,13 @@ Link to the dashboard: [here](Call_Center.pbix).
 
 ## Task 2: Customer Retention Analysis
 
-This task focuses on analyzing customer retention trends and providing data-driven recommendations to improve retention strategies. You can access the dataset [here](02-Churn-Dataset.xlsx).
+This task focuses on analyzing customer retention trends. You can access the dataset [here](02-Churn-Dataset.xlsx).
 
 <img src="Image/02_Retention.png" Width='800'>
 
 Link to the dashboard: [here](Retention_Analysis.pbix).
 
-The following are several key findings that give insights into the customer retention during the given time period:
+### Key Findings
 
 - **Overall Churn Rate**: Over the past few months, 26.5% of customers (1,869 out of 7,043) have churned.
 - **Tenure Impact**: Customers with **longer tenure are less likely to churn**. The highest churn rate (54%) was observed among customers with a tenure of 0–6 months.
@@ -46,13 +46,32 @@ The following are several key findings that give insights into the customer rete
 
 **Reflection after the Task**: The dashboard this time provides a clearer, more structured narrative around customer retention trends. By reducing clutter and improving data storytelling, the insights are now more actionable and easier to interpret, helping identify key factors driving customer churn.
 
-# Task 3: Diversity & Inclusion Analysis
+## Task 3: Diversity & Inclusion Analysis
 
-This task requires analysis on diversity and inclusion for a HR department. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. You can access the dataset [here](03-Diversity-Inclusion-Dataset.xlsx).
+This task requires analysis on diversity and inclusion for an HR department. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. You can access the dataset [here](03-Diversity-Inclusion-Dataset.xlsx).
 
 <img style="border:1px solid black;" src="Image/03_Diversity.png" Width='800'/>
 
 Link to the dashboard: [here](Diversity&Inclusion.pbix). 
 
-The following findings give insigts explaining why there is a slow progress in improving gender balance in the business:
-- 
+### Key Findings:
+- Overall, The gender gap has been narrowing in recent years, as seen in the **Genders by Tenure Year** chart, reflecting HR’s efforts to improve balance. The pie chart also supports this idea where nearly 50% of new hires are woman.
+- Despite progress, men still make up nearly 60% of all employees, with no women at all in the 60-69 age group.
+- This can be explained by the fact that most important roles within the company (senior, manager, director, executive) are dominated by man, while women are only overrepresented in junior positions. 
+- Additionally, in FY21, only 35% of women were promoted, despite their performance ratings being nearly equal to men’s (2.26 vs. 2.31). This suggests a potential bias in promotion decisions.
+- For these reasons,  Women leave the company at a much higher rate than men, particularly in the 50-59 age group, where the turnover rate approaches 80%.
+
+For the above reasons, it is easy to understand why improving gender balance at the company is still a slow progress. The executive should take women into consideration for more important role within the company, more promotions and benefits, considering their impressive performance rating comparing to men's.
+
+### Recommendations:
+- Increase women’s representation in leadership roles through mentorship, sponsorship, and targeted promotions.
+- Ensure fair career advancement by addressing potential biases in promotion decisions.
+- Improve retention strategies for female employees, particularly in mid-to-senior roles.
+
+**Reflection after the Task**: This dashboard effectively uncovers the barriers to gender balance in leadership, combining hiring, promotion, and retention insights. The improved structure and visualization clarity enhanced storytelling and decision-making.
+
+# Conclusion
+
+This project provided a comprehensive analysis across multiple business domains, demonstrating the power of data-driven decision-making using Power BI. Through three key tasks—Call Center Performance, Customer Retention, and Diversity & Inclusion Analysis—I gained valuable experience in defining KPIs, building interactive dashboards, and extracting meaningful insights to support strategic decision-making.
+
+Beyond the technical aspects, this project strengthened my problem-solving skills and business acumen, reinforcing how data analytics can drive real impact in various industries. Moving forward, I am excited to further enhance my Power BI expertise and apply these skills to even more complex and dynamic business challenges.

@@ -34,7 +34,7 @@ This task focuses on analyzing customer retention trends and providing data-driv
 
 Link to the dashboard: [here](Retention_Analysis.pbix).
 
-The following are several key findings that give insights into the customer retention during the given time period
+The following are several key findings that give insights into the customer retention during the given time period:
 
 - **Overall Churn Rate**: Over the past few months, 26.5% of customers (1,869 out of 7,043) have churned.
 - **Tenure Impact**: Customers with **longer tenure are less likely to churn**. The highest churn rate (54%) was observed among customers with a tenure of 0–6 months.
@@ -50,6 +50,9 @@ The following are several key findings that give insights into the customer rete
 
 This task requires analysis on diversity and inclusion for a HR department. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. You can access the dataset [here](03-Diversity-Inclusion-Dataset.xlsx).
 
-<img src="Image/03_Diversity.png" Width='800'>
+<img style="border:1px solid black;" src="Image/03_Diversity.png" Width='800'>
 
 Link to the dashboard: [here](Diversity&Inclusion.pbix). 
+
+The following findings give insigts explaining why there is a slow progress in improving gender balance in the business:
+- 

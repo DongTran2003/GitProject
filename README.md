@@ -52,4 +52,4 @@ This task requires analysis on diversity and inclusion for a HR department. They
 
 <img src="Image/03_Diversity.png" Width='800'>
 
-Link to the dashboard: [here](Diversity&Inclusion.pbix).
+Link to the dashboard: [here](Diversity&Inclusion.pbix). 

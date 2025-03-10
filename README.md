@@ -50,7 +50,7 @@ The following are several key findings that give insights into the customer rete
 
 This task requires analysis on diversity and inclusion for a HR department. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. You can access the dataset [here](03-Diversity-Inclusion-Dataset.xlsx).
 
-<img style="border:1px solid black;" src="Image/03_Diversity.png" Width='800'>
+<img style="border:1px solid black;" src="Image/03_Diversity.png" Width='800'/>
 
 Link to the dashboard: [here](Diversity&Inclusion.pbix). 
 
